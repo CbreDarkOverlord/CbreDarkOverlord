@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CbreDarkOverlord
 - 👀 I’m interested in python and security
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust & Go
 - 💞️ I’m looking to collaborate on Cross Functional Requirements
 - 📫 you can reach me on Discord and Slack
 
